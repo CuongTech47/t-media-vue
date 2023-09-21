@@ -15,11 +15,9 @@ import Footer from "./components/Footer.vue";
 <!--  </div>-->
 <!--  <HelloWorld msg="Vite + Vue" />-->
 
-  <main>
-    <article>
+
       <RouterView />
-    </article>
-  </main>
+
 
   <!--
     - #BACK TO TOP

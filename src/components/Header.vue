@@ -12,15 +12,15 @@
         <ul class="navbar-list">
 
           <li>
-            <a href="#home" class="navbar-link" data-nav-link>Home</a>
+            <a href="#home" class="navbar-link" data-nav-link>Trang chủ</a>
           </li>
 
           <li>
-            <a href="#service" class="navbar-link" data-nav-link>Services</a>
+            <a href="#service" class="navbar-link" data-nav-link>Dịch vụ</a>
           </li>
 
           <li>
-            <a href="#project" class="navbar-link" data-nav-link>Project</a>
+            <a href="#project" class="navbar-link" data-nav-link>Dự án đã làm</a>
           </li>
 
           <li>
@@ -35,11 +35,11 @@
 <!--          </li>-->
 
           <li>
-            <a href="#contact" class="navbar-link" data-nav-link>Contact Us</a>
+            <a href="#contact" class="navbar-link" data-nav-link>Liên hệ</a>
           </li>
-          <li>
-            <a href="/facebook" class="navbar-link" data-nav-link>Facebook</a>
-          </li>
+<!--          <li>-->
+<!--            <a href="/facebook" class="navbar-link" data-nav-link>Facebook</a>-->
+<!--          </li>-->
 <!--          <Dropdown>-->
 <!--            <a href="javascript:void(0)">-->
 <!--              Facebook-->
@@ -55,7 +55,7 @@
 <!--          </Dropdown>-->
 
           <li>
-            <a href="#" class="btn btn-primary">Get Started</a>
+            <a href="#service" class="btn btn-primary">Bắt đầu</a>
           </li>
 
 

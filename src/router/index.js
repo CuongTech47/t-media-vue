@@ -19,7 +19,15 @@ const router = createRouter({
             // route level code-splitting
             // this generates a separate chunk (About.[hash].js) for this route
             // which is lazy-loaded when the route is visited.
-            component: () => import('../pages/FacebookView.vue')
+            component: () => import('../pages/Facebook/FacebookView.vue')
+        },
+        {
+            path: '/quan-tri-fanpage-facebook',
+            name: 'fanpage-facebook',
+            // route level code-splitting
+            // this generates a separate chunk (About.[hash].js) for this route
+            // which is lazy-loaded when the route is visited.
+            component: () => import('../pages/Facebook/FanpageView.vue')
         },
 
     ]
