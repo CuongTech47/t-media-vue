@@ -47,7 +47,7 @@
             <!--          </Dropdown>-->
 
             <li>
-              <Link to="/" class="btn btn-primary">Get Started</Link>
+              <Link to="/" class="btn btn-primary">Trang chủ</Link>
             </li>
 
 
