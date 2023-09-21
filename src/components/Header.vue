@@ -37,6 +37,9 @@
           <li>
             <a href="#contact" class="navbar-link" data-nav-link>Contact Us</a>
           </li>
+          <li>
+            <a href="/facebook" class="navbar-link" data-nav-link>Facebook</a>
+          </li>
 <!--          <Dropdown>-->
 <!--            <a href="javascript:void(0)">-->
 <!--              Facebook-->
