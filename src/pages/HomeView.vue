@@ -1,0 +1,628 @@
+<template>
+  <Header/>
+  <section class="section hero" id="home" aria-label="hero">
+    <div class="container">
+
+      <div class="hero-content">
+
+        <p class="hero-subtitle">T-MEDIA GROUP Marketing Agency</p>
+
+        <h1 class="h1 hero-title">Giải pháp Marketing hiệu quả cho doanh nghiệp của bạn</h1>
+
+        <p class="hero-text">
+          Bắt đầu cùng với đội ngũ chuyên nghiệp của chúng tôi
+        </p>
+
+        <a href="#" class="btn btn-primary">Get Started</a>
+
+      </div>
+
+      <figure class="hero-banner">
+        <img src="../assets/images/hero-banner.png" width="720" height="673" alt="hero banner" class="w-100">
+      </figure>
+
+    </div>
+  </section>
+
+  <section class="section service" id="service" aria-label="service">
+    <div class="container">
+
+      <h2 class="h2 section-title">
+        Dịch vụ chúng tôi cung cấp</h2>
+
+      <p class="section-text">
+        Trong một thế giới ngày càng phát triển và cạnh tranh, Marketing trở thành một yếu tố quan trọng không thể thiếu cho mọi doanh nghiệp và tổ chức. Đó không chỉ là việc quảng cáo sản phẩm hoặc dịch vụ của bạn, mà còn là cách bạn xây dựng và duy trì mối quan hệ với khách hàng.
+      </p>
+
+      <ul class="grid-list">
+
+        <li>
+          <div class="service-card">
+
+            <div class="card-icon" style="background-color: #13c4a1">
+              <ion-icon name="chatbox"></ion-icon>
+            </div>
+
+            <h3 class="h3">
+              <Link to="/facebook" class="card-title">Facebook</Link>
+            </h3>
+
+            <p class="card-text">
+              Dịch vụ Quảng cáo Facebook của chúng tôi: Khi bạn muốn thúc đẩy thương hiệu và sản phẩm của mình lên tầm cao mới, Facebook là một trong những công cụ quảng cáo mạnh mẽ và hiệu quả nhất trên thị trường kỹ thuật số. Với hơn 2 tỷ người dùng hàng tháng
+            </p>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="service-card">
+
+            <div class="card-icon" style="background-color: #6610f2">
+              <ion-icon name="desktop"></ion-icon>
+            </div>
+
+            <h3 class="h3">
+              <a href="#" class="card-title">Digital Marketing</a>
+            </h3>
+
+            <p class="card-text">
+              Sed ut perspiciatis unde omnis iste natus error sit tatem accusantium doloremque laudantium, totam rem
+              aperiam, eaque
+              ipsa quae.
+            </p>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="service-card">
+
+            <div class="card-icon" style="background-color: #ffb700">
+              <ion-icon name="bulb"></ion-icon>
+            </div>
+
+            <h3 class="h3">
+              <a href="#" class="card-title">Youtube</a>
+            </h3>
+
+            <p class="card-text">
+              Dịch vụ quảng cáo trên YouTube của chúng tôi: Tiếp cận hàng tỷ người xem trên nền tảng video lớn nhất thế giới với chiến dịch quảng cáo YouTube chuyên nghiệp và hiệu quả.
+            </p>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="service-card">
+
+            <div class="card-icon" style="background-color: #fc3549">
+              <ion-icon name="phone-portrait"></ion-icon>
+            </div>
+
+            <h3 class="h3">
+              <a href="#" class="card-title">Keyword Targeting</a>
+            </h3>
+
+            <p class="card-text">
+              Sed ut perspiciatis unde omnis iste natus error sit tatem accusantium doloremque laudantium, totam rem
+              aperiam, eaque
+              ipsa quae.
+            </p>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="service-card">
+
+            <div class="card-icon" style="background-color: #00d280">
+              <ion-icon name="archive"></ion-icon>
+            </div>
+
+            <h3 class="h3">
+              <a href="#" class="card-title">Tiktok</a>
+            </h3>
+
+            <p class="card-text">
+              Bạn đã sẵn sàng đánh bại cạnh tranh và kết nối với hàng triệu người dùng trên mạng xã hội phát triển nhanh chóng nhất hiện nay? Dịch vụ quảng cáo TikTok của chúng tôi đã sẵn sàng để giúp bạn chinh phục thế giới TikTok và xây dựng thương hiệu mạnh mẽ.
+            </p>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="service-card">
+
+            <div class="card-icon" style="background-color: #ff612f">
+              <ion-icon name="build"></ion-icon>
+            </div>
+
+            <h3 class="h3">
+              <a href="#" class="card-title">Marketing & Reporting</a>
+            </h3>
+
+            <p class="card-text">
+              Sed ut perspiciatis unde omnis iste natus error sit tatem accusantium doloremque laudantium, totam rem
+              aperiam, eaque
+              ipsa quae.
+            </p>
+
+          </div>
+        </li>
+
+      </ul>
+
+    </div>
+  </section>
+  <section class="section project" id="project" aria-label="project">
+    <div class="container">
+
+      <h2 class="h2 section-title">Dự án gần đây của chúng tôi</h2>
+
+      <p class="section-text">
+        Thông qua sự cống hiến không ngừng, sự tương tác sâu rộng với khách hàng và đội ngũ tài năng của chúng tôi, chúng tôi đã xây dựng một hành trình đầy thách thức để biến những ý tưởng thành hiện thực. Các dự án dù lớn hay nhỏ không chỉ là một dự án bình thường, nó là một cuộc hành trình sáng tạo và tiếp thị tinh tế để tạo nên cơ hội, vượt qua mọi khó khăn và đạt đến đỉnh cao của sự thành công.
+      </p>
+
+      <ul class="grid-list">
+
+        <li>
+          <div class="project-card">
+
+            <figure class="card-banner img-holder" style="--width: 510; --height: 700;">
+              <img src="../assets/images/project-1.jpg" width="510" height="700" loading="lazy"
+                   alt="Designing a better cinema experience" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <p class="card-subtitle">SEO Optimization</p>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">Designing a better cinema experience</a>
+              </h3>
+
+              <a href="#" class="btn btn-primary">View Details</a>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="project-card">
+
+            <figure class="card-banner img-holder" style="--width: 510; --height: 700;">
+              <img src="../assets/images/project-2.jpg" width="510" height="700" loading="lazy"
+                   alt="Building design process within teams" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <p class="card-subtitle">Digital Marketing</p>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">Building design process within teams</a>
+              </h3>
+
+              <a href="#" class="btn btn-primary">View Details</a>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="project-card">
+
+            <figure class="card-banner img-holder" style="--width: 510; --height: 700;">
+              <img src="../assets/images/project-3.jpg" width="510" height="700" loading="lazy"
+                   alt="How intercom brings play into their design process" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <p class="card-subtitle">Keyword Targeting</p>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">How intercom brings play into their design process</a>
+              </h3>
+
+              <a href="#" class="btn btn-primary">View Details</a>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="project-card">
+
+            <figure class="card-banner img-holder" style="--width: 510; --height: 700;">
+              <img src="../assets/images/project-4.jpg" width="510" height="700" loading="lazy"
+                   alt="Stuck with to-do list, I created a new app for" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <p class="card-subtitle">Email Marketing</p>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">Stuck with to-do list, I created a new app for</a>
+              </h3>
+
+              <a href="#" class="btn btn-primary">View Details</a>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="project-card">
+
+            <figure class="card-banner img-holder" style="--width: 510; --height: 700;">
+              <img src="../assets/images/project-5.jpg" width="510" height="700" loading="lazy"
+                   alt="Examples of different types of sprints" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <p class="card-subtitle">Marketing & Reporting</p>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">Examples of different types of sprints</a>
+              </h3>
+
+              <a href="#" class="btn btn-primary">View Details</a>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="project-card">
+
+            <figure class="card-banner img-holder" style="--width: 510; --height: 700;">
+              <img src="../assets/images/project-6.jpg" width="510" height="700" loading="lazy"
+                   alt="Redesigning the New York times app" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <p class="card-subtitle">Development</p>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">Redesigning the New York times app</a>
+              </h3>
+
+              <a href="#" class="btn btn-primary">View Details</a>
+
+            </div>
+
+          </div>
+        </li>
+
+      </ul>
+
+    </div>
+  </section>
+
+  <section class="section about" id="about" aria-label="about">
+    <div class="container">
+
+      <div class="about-banner img-holder" style="--width: 930; --height: 960;">
+        <img src="../assets/images/about-banner1.jpg" width="930" height="960" loading="lazy" alt="about banner"
+             class="img-cover">
+
+        <button class="play-btn" aria-label="Play video">
+          <ion-icon name="play" aria-hidden="true"></ion-icon>
+        </button>
+      </div>
+
+      <div class="about-content">
+
+        <h2 class="h2 section-title">Về chúng tôi</h2>
+
+        <p class="section-text">
+          Tại T-MEDIA GROUP, chúng tôi tận dụng sự mạnh mẽ của tiếp thị để biến ý tưởng thành hiện thực. Chúng tôi là một đội ngũ chuyên nghiệp và sáng tạo, cam kết mang lại giá trị tối ưu cho khách hàng của mình thông qua chiến dịch tiếp thị độc đáo và hiệu quả.
+        </p>
+
+        <h3 class="h3">Tại Sao Chọn Chúng Tôi?</h3>
+
+        <p class="section-text">
+          Chúng tôi hiểu rằng môi trường kinh doanh ngày càng phức tạp và đầy cạnh tranh. Vì vậy, chúng tôi không chỉ tập trung vào việc thực hiện chiến dịch tiếp thị, mà còn vào việc hiểu sâu về mục tiêu của bạn và đối tượng tiêu dùng. Sự kết hợp giữa nghiên cứu thị trường chi tiết và sáng tạo không giới hạn giúp chúng tôi tạo ra các chiến dịch tiếp thị tùy chỉnh, độc đáo và hiệu quả.
+        </p>
+
+        <h3 class="h3">Cơ Sở Hạ Tầng Và Công Nghệ Hiện Đại</h3>
+
+        <p class="section-text">
+          Chúng tôi đầu tư mạnh mẽ vào cơ sở hạ tầng và công nghệ tiên tiến để đảm bảo rằng mọi chiến dịch của bạn được triển khai một cách suôn sẻ và theo dõi một cách tỉ mỉ. Sự kết hợp giữa trí tuệ nhân tạo, phân tích dữ liệu và công cụ tiếp thị hàng đầu giúp chúng tôi cung cấp thông tin cần thiết và hiểu biết chi tiết để bạn có thể ra quyết định đúng đắn.
+        </p>
+
+        <h3 class="h3">Thành công của chúng tôi</h3>
+
+        <ul class="about-list">
+
+          <li class="about-item">
+            <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+            <p class="section-text">
+              Hơn 1000 Khách hàng tin tưởng và sử dụng dịch vụ
+            </p>
+          </li>
+
+          <li class="about-item">
+            <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+            <p class="section-text">
+              3.000+ Chiến dịch Marketing tổng thể
+            </p>
+          </li>
+
+          <li class="about-item">
+            <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+            <p class="section-text">
+              5.000+ Khách hàng hài lòng
+            </p>
+          </li>
+
+        </ul>
+
+        <h3 class="h3">Nhiệm vụ của chúng tôi</h3>
+
+        <p class="section-text">
+          Chúng tôi cam kết mang lại giá trị tối ưu cho mỗi khách hàng, không chỉ bằng cách đưa ra các chiến dịch tiếp thị hiệu quả, mà còn bằng cách thấu hiểu sâu sắc về nhu cầu và mục tiêu của họ. Chúng tôi tin rằng sự sáng tạo có thể thay đổi mọi thứ, và sự tiếp thị tinh tế là chìa khóa để nắm bắt cơ hội.
+        </p>
+
+      </div>
+
+    </div>
+  </section>
+  <section class="section cta" aria-label="cta" style="background-image: url('../assets/images/cta-bg.jpg')">
+    <div class="container">
+
+      <p class="cta-subtitle">Vậy tiếp theo là gì?</p>
+
+      <h2 class="h2 section-title">Bạn đã sẵn sàng chưa? Cùng bắt tay vào làm!</h2>
+
+      <a href="#" class="btn btn-secondary">Bắt đầu</a>
+
+    </div>
+  </section>
+
+  <section class="section blog" id="blog" aria-label="blog">
+    <div class="container">
+
+      <h2 class="h2 section-title">Bài viết mới nhất được cập nhật hàng tuần</h2>
+
+      <!--          <p class="section-text">-->
+      <!--            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et-->
+      <!--            dolore magna-->
+      <!--            aliqua.-->
+      <!--          </p>-->
+
+      <ul class="grid-list">
+
+        <li>
+          <div class="blog-card">
+
+            <figure class="card-banner img-holder" style="--width: 860; --height: 646;">
+              <img src="../assets/images/blog-1.jpg" width="860" height="646" loading="lazy"
+                   alt="How to Become a Successful Entry Level UX Designer" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <time class="time" datetime="2022-06-16">June 16, 2022</time>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">How to Become a Successful Entry Level UX Designer</a>
+              </h3>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="blog-card grid">
+
+            <figure class="card-banner img-holder" style="--width: 860; --height: 646;">
+              <img src="../assets/images/blog-2.jpg" width="860" height="646" loading="lazy"
+                   alt="2022 Local SEO Success: The Year of Everywhere" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <time class="time" datetime="2022-06-16">June 16, 2022</time>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">2022 Local SEO Success: The Year of Everywhere</a>
+              </h3>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="blog-card grid">
+
+            <figure class="card-banner img-holder" style="--width: 860; --height: 646;">
+              <img src="../assets/images/blog-3.jpg" width="860" height="646" loading="lazy"
+                   alt="The Guide to Running a Client Discovery Process" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <time class="time" datetime="2022-06-16">June 16, 2022</time>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">The Guide to Running a Client Discovery Process</a>
+              </h3>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="blog-card grid">
+
+            <figure class="card-banner img-holder" style="--width: 860; --height: 646;">
+              <img src="../assets/images/blog-4.jpg" width="860" height="646" loading="lazy"
+                   alt="3 Ways to Get Client Approval for Scope Changes" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <time class="time" datetime="2022-06-16">June 16, 2022</time>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">3 Ways to Get Client Approval for Scope Changes</a>
+              </h3>
+
+            </div>
+
+          </div>
+        </li>
+
+        <li>
+          <div class="blog-card grid">
+
+            <figure class="card-banner img-holder" style="--width: 860; --height: 646;">
+              <img src="../assets/images/blog-5.jpg" width="860" height="646" loading="lazy"
+                   alt="Top 21 Must-Read Blogs For Creative Agencies" class="img-cover">
+            </figure>
+
+            <div class="card-content">
+
+              <time class="time" datetime="2022-06-16">June 16, 2022</time>
+
+              <h3 class="h3">
+                <a href="#" class="card-title">Top 21 Must-Read Blogs For Creative Agencies</a>
+              </h3>
+
+            </div>
+
+          </div>
+        </li>
+
+      </ul>
+
+    </div>
+  </section>
+
+
+  <section class="section contact" id="contact" aria-label="contact">
+  <div class="container">
+
+    <h2 class="h2 section-title">Hãy liên hệ với chúng tôi</h2>
+
+    <p class="section-text">
+      Khi Bạn Cần, Chúng Tôi Sẽ Ở Đây - Hãy Liên Hệ Với Chúng Tôi.
+    </p>
+
+    <form action="" class="contact-form">
+
+      <div class="input-wrapper">
+        <input type="text" name="name" aria-label="name" placeholder="Your name*" required class="input-field">
+
+        <input type="email" name="email_address" aria-label="email" placeholder="Email address*" required
+               class="input-field">
+      </div>
+
+      <div class="input-wrapper">
+        <input type="text" name="subject" aria-label="subject" placeholder="Subject" class="input-field">
+
+        <input type="number" name="phone" aria-label="phone" placeholder="Phone number" class="input-field">
+      </div>
+
+      <textarea name="message" aria-label="message" placeholder="Your message...*" required
+                class="input-field"></textarea>
+
+      <div class="checkbox-wrapper">
+        <input type="checkbox" name="terms_and_policy" id="terms" required class="checkbox">
+
+        <label for="terms" class="label">
+          Accept <a href="#" class="label-link">Terms of Services</a> and <a href="#" class="label-link">Privacy
+          Policy</a>
+        </label>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Send Message</button>
+
+    </form>
+
+    <ul class="contact-list">
+
+      <li class="contact-item">
+        <div class="contact-card">
+
+          <div class="card-icon">
+            <ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+          </div>
+
+          <div class="card-content">
+
+            <h3 class="h3 card-title">Mail Here</h3>
+
+            <a href="mailto:hello@luaz.com" class="card-link">abc@123.com</a>
+            <a href="mailto:info@luaz.com" class="card-link">info@123.com</a>
+
+          </div>
+
+        </div>
+      </li>
+
+      <li class="contact-item">
+        <div class="contact-card">
+
+          <div class="card-icon">
+            <ion-icon name="map-outline" aria-hidden="true"></ion-icon>
+          </div>
+
+          <div class="card-content">
+
+            <h3 class="h3 card-title">Địa chỉ</h3>
+
+            <address class="card-address">
+              08 Thanh Lương 3, Hoà xuân<br>
+              Cẩm lệ , Đà Nẵng, Việt Nam
+            </address>
+
+          </div>
+
+        </div>
+      </li>
+
+      <li class="contact-item">
+        <div class="contact-card">
+
+          <div class="card-icon">
+            <ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
+          </div>
+
+          <div class="card-content">
+
+            <h3 class="h3 card-title">Call Here</h3>
+
+            <a href="tel:+1234567890" class="card-link">+123 456 7890</a>
+            <a href="tel:+2414524526" class="card-link">+241 452 4526</a>
+
+          </div>
+
+        </div>
+      </li>
+
+    </ul>
+
+  </div>
+  </section>
+</template>
+<script setup>
+import {Link} from "view-ui-plus";
+import Header from "../components/Header.vue";
+</script>
