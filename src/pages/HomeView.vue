@@ -82,7 +82,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">Quảng cáo Instagram</a>
+                  <Link to="/quang-cao-intagram"  class="card-title">Quảng cáo Instagram</Link>
                 </h3>
 
                 <p class="card-text">
@@ -136,7 +136,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">Xây dựng kênh Tiktok</a>
+                  <Link to="/xay-dung-kenh-tiktok" class="card-title">Xây dựng kênh Tiktok</Link>
                 </h3>
 
                 <p class="card-text">

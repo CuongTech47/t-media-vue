@@ -8,7 +8,7 @@
 <!--            <a href="#" class="logo">T-MEDIA GROUP</a>-->
       <img src="../assets/images/logo.png" width="70px" />
 
-      <nav class="navbar container" data-navbar>
+      <nav class="navbar container"  data-navbar>
         <ul class="navbar-list">
 
           <li>
@@ -63,17 +63,18 @@
         </ul>
       </nav>
 
-      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler>
-        <ion-icon name="menu-outline" class="open"></ion-icon>
-        <ion-icon name="close-outline" class="close"></ion-icon>
+
+      <button class="nav-toggle-btn" aria-label="Toggle menu" data-nav-toggler >
+        <ion-icon name="menu-outline"  class="open" ></ion-icon>
+        <ion-icon name="close-outline"  class="close" ></ion-icon>
       </button>
 
     </div>
   </header>
 </template>
 
-<script setup>
+<script >
 
 
-import {Link} from "view-ui-plus";
+
 </script>

@@ -5,12 +5,19 @@
  */
 
 const addEventOnElem = function (elem, type, callback) {
-    if (elem.length > 1) {
-        for (let i = 0; i < elem.length; i++) {
-            elem[i].addEventListener(type, callback);
+    // Kiểm tra xem elem có giá trị hợp lệ
+    if (elem) {
+        // Nếu elem là một danh sách các phần tử
+        if (elem.length !== undefined) {
+            for (let i = 0; i < elem.length; i++) {
+                elem[i].addEventListener(type, callback);
+            }
+        } else {
+            // Nếu elem là một phần tử đơn
+            elem.addEventListener(type, callback);
         }
     } else {
-        elem.addEventListener(type, callback);
+        console.error("Element is null or undefined.");
     }
 }
 
