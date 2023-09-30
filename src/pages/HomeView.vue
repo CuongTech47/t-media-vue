@@ -100,7 +100,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">Tăng Follow Tiktok</a>
+                  <Link to="/follow-tiktok" class="card-title">Tăng Follow Tiktok</Link>
                 </h3>
 
                 <p class="card-text">
@@ -118,7 +118,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">Quảng cáo Tiktok</a>
+                  <Link to="/quang-cao-tiktok" class="card-title">Quảng cáo Tiktok</Link>
                 </h3>
 
                 <p class="card-text">
@@ -146,7 +146,57 @@
               </div>
             </li>
 
+            <li>
+              <div class="service-card">
 
+                <div class="card-icon" style="background-color: #6610f2">
+                  <ion-icon name="desktop"></ion-icon>
+                </div>
+
+                <h3 class="h3">
+                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Quản trị Fanpage Facebook</Link>
+                </h3>
+
+                <p class="card-text">
+                  Nội dung fanpage là tổng hợp những gì bạn đăng lên “tường” ví dụ như status, video clip, hình ảnh, link website, ghi chú… Dịch vụ “quản trị fanpage Facebook” tại Trung Huy là công việc lập kế hoạch, xây dựng ý tưởng, từ đó thiết kế nội dung, hình ảnh có liên quan đến các sản phẩm, dịch vụ của bạn. Thực hiện triển khai, theo dõi cập nhật liên tục, thống kê báo cáo, tương tác phản hồi với người dùng, xử lý các vấn đề…
+                </p>
+
+              </div>
+            </li>
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon" style="background-color: #6610f2">
+                  <ion-icon name="desktop"></ion-icon>
+                </div>
+
+                <h3 class="h3">
+                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Quản trị Fanpage Facebook</Link>
+                </h3>
+
+                <p class="card-text">
+                  Nội dung fanpage là tổng hợp những gì bạn đăng lên “tường” ví dụ như status, video clip, hình ảnh, link website, ghi chú… Dịch vụ “quản trị fanpage Facebook” tại Trung Huy là công việc lập kế hoạch, xây dựng ý tưởng, từ đó thiết kế nội dung, hình ảnh có liên quan đến các sản phẩm, dịch vụ của bạn. Thực hiện triển khai, theo dõi cập nhật liên tục, thống kê báo cáo, tương tác phản hồi với người dùng, xử lý các vấn đề…
+                </p>
+
+              </div>
+            </li>
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon" style="background-color: rgba(156,15,88,0.58)">
+                  <ion-icon name="logo-chrome"></ion-icon>
+                </div>
+
+                <h3 class="h3">
+                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Seo Top Google</Link>
+                </h3>
+
+                <p class="card-text">
+                  giúp Website của Doanh Nghiệp có cơ hội chiếm vị trí cao trong bảng xếp hạng của Google: Khi đứng top, bạn sẽ là doanh nghiệp được nhiều khách hàng biết đến hơn. Theo đó, các thông tin, quảng cáo hay sản phẩm của bạn đều sẽ tiếp cận dễ dàng đến các khách hàng tiềm năng.
+                </p>
+
+              </div>
+            </li>
 
           </ul>
 

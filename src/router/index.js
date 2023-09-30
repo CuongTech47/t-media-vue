@@ -39,7 +39,7 @@ const router = createRouter({
         },
         {
             path: '/follow-tiktok',
-            name: 'titok',
+            name: 'follow-tiktok',
             // route level code-splitting
             // this generates a separate chunk (About.[hash].js) for this route
             // which is lazy-loaded when the route is visited.
@@ -47,7 +47,7 @@ const router = createRouter({
         },
         {
             path: '/xay-dung-kenh-tiktok',
-            name: 'titok',
+            name: 'xay-dung-kenh-tiktok',
             // route level code-splitting
             // this generates a separate chunk (About.[hash].js) for this route
             // which is lazy-loaded when the route is visited.
