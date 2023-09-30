@@ -154,7 +154,7 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Quản trị Fanpage Facebook</Link>
+                  <Link to="/ads-google" class="card-title">Google Ads</Link>
                 </h3>
 
                 <p class="card-text">
@@ -171,11 +171,11 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Quản trị Fanpage Facebook</Link>
+                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Quản trị Website</Link>
                 </h3>
 
                 <p class="card-text">
-                  Nội dung fanpage là tổng hợp những gì bạn đăng lên “tường” ví dụ như status, video clip, hình ảnh, link website, ghi chú… Dịch vụ “quản trị fanpage Facebook” tại Trung Huy là công việc lập kế hoạch, xây dựng ý tưởng, từ đó thiết kế nội dung, hình ảnh có liên quan đến các sản phẩm, dịch vụ của bạn. Thực hiện triển khai, theo dõi cập nhật liên tục, thống kê báo cáo, tương tác phản hồi với người dùng, xử lý các vấn đề…
+                  Website là kênh đóng vai trò quan trọng nhất trong các điểm chạm của người dùng trong hành trình mua sắm sản phẩm dịch vụ của doanh nghiệp bạn trên internet. Đồng thời đây cũng là kênh cho phép doanh nghiệp được tự do chủ động thực hiện mọi chiến lược đo đạc tracking, cũng như triển khai ý tưởng nội dung mà không gặp bất cứ rào cản nào.
                 </p>
 
               </div>
@@ -188,7 +188,41 @@
                 </div>
 
                 <h3 class="h3">
-                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Seo Top Google</Link>
+                  <Link to="/seo-web" class="card-title">Seo Top Google</Link>
+                </h3>
+
+                <p class="card-text">
+                  giúp Website của Doanh Nghiệp có cơ hội chiếm vị trí cao trong bảng xếp hạng của Google: Khi đứng top, bạn sẽ là doanh nghiệp được nhiều khách hàng biết đến hơn. Theo đó, các thông tin, quảng cáo hay sản phẩm của bạn đều sẽ tiếp cận dễ dàng đến các khách hàng tiềm năng.
+                </p>
+
+              </div>
+            </li>
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon" style="background-color: rgba(156,15,88,0.58)">
+                  <ion-icon name="logo-chrome"></ion-icon>
+                </div>
+
+                <h3 class="h3">
+                  <Link to="/landingpage" class="card-title">Thiết kế Landing Page</Link>
+                </h3>
+
+                <p class="card-text">
+                  giúp Website của Doanh Nghiệp có cơ hội chiếm vị trí cao trong bảng xếp hạng của Google: Khi đứng top, bạn sẽ là doanh nghiệp được nhiều khách hàng biết đến hơn. Theo đó, các thông tin, quảng cáo hay sản phẩm của bạn đều sẽ tiếp cận dễ dàng đến các khách hàng tiềm năng.
+                </p>
+
+              </div>
+            </li>
+            <li>
+              <div class="service-card">
+
+                <div class="card-icon" style="background-color: rgba(156,15,88,0.58)">
+                  <ion-icon name="logo-chrome"></ion-icon>
+                </div>
+
+                <h3 class="h3">
+                  <Link to="/quan-tri-fanpage-facebook" class="card-title">Thiết kế Website</Link>
                 </h3>
 
                 <p class="card-text">

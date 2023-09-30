@@ -37,6 +37,9 @@
           <li>
             <a href="#contact" class="navbar-link" data-nav-link>Liên hệ</a>
           </li>
+          <li>
+            <a href="#contact" class="navbar-link" data-nav-link>Tuyển dụng </a>
+          </li>
 <!--          <li>-->
 <!--            <a href="/facebook" class="navbar-link" data-nav-link>Facebook</a>-->
 <!--          </li>-->

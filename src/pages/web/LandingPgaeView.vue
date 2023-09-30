@@ -73,7 +73,7 @@
 
             <p class="hero-subtitle">T-MEDIA GROUP Marketing Agency</p>
 
-            <h1 class="h1 hero-title">QUẢN TRỊ WEBSITE</h1>
+            <h1 class="h1 hero-title">Thiết kế Landing Page</h1>
 
             <p class="hero-text">
               Bắt đầu cùng với đội ngũ chuyên nghiệp của chúng tôi
@@ -106,11 +106,11 @@
 
           <div class="about-content">
 
-            <h2 class="h2 section-title">TẠI SAO NÊN SỬ DỤNG QUẢN TRỊ WEBSITE ?</h2>
+            <h2 class="h2 section-title">TẠI SAO NÊN SỬ DỤNG LANDING PAGE ?</h2>
 
-<!--            <p class="section-text">-->
-<!--              Câu trả lời ngắn gọn là vì chúng ta cần để tăng tỷ lệ chuyển đổi cho bạn-->
-<!--            </p>-->
+                      <p class="section-text">
+                        Câu trả lời ngắn gọn là vì chúng ta cần để tăng tỷ lệ chuyển đổi cho bạn
+                      </p>
 
             <!--          <h3 class="h3">Tại Sao Chọn Chúng Tôi?</h3>-->
 
@@ -132,7 +132,7 @@
                 <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                 <p class="section-text">
-                  Website là kênh đóng vai trò quan trọng nhất trong các điểm chạm của người dùng trong hành trình mua sắm sản phẩm dịch vụ của doanh nghiệp bạn trên internet. Đồng thời đây cũng là kênh cho phép doanh nghiệp được tự do chủ động thực hiện mọi chiến lược đo đạc tracking, cũng như triển khai ý tưởng nội dung mà không gặp bất cứ rào cản nào.
+                  Lý do chính cho việc này là quảng cáo được nhắm tới mục tiêu chính xác, tập trung vào một sản phẩm nhất định với mục tiêu để khách hàng nhấp vào để tối ưu hoá chuyển đổi.
                 </p>
               </li>
 
@@ -140,17 +140,17 @@
                 <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
 
                 <p class="section-text">
-                  Do đó, nếu bạn bỏ ra cả triệu đô la tiền quảng cáo online thì nguồn lực chi cho việc xây dựng và duy trì sự trơn tru của website cũng phải tương xứng với ngân sách quảng cáo đó.
+                  So sánh lưu lượng truy cập đến trang chủ và landing page, thì có thể hiểu rằng trang chủ được thiết kế với mục đích chung chung hơn. Nó liên quan đến nhiều giá trị thương hiệu và doanh nghiệp, thường có nhiều liên kết internal để điều hướng các bài viết khác trên website. Và quan trọng hơn hết là các liên kết interal trên trang sẽ làm loãng thông điệp và giảm tỷ lệ chuyển đổi.
                 </p>
               </li>
 
-              <!--              <li class="about-item">-->
-              <!--                <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>-->
+<!--              <li class="about-item">-->
+<!--                <ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>-->
 
-              <!--                <p class="section-text">-->
-              <!--                  Google Smart Shopping (chiến dịch mua sắm thông minh), dùng nhiều trong thương mại điện tử, vừa hướng đến mục tiêu khách mua hàng tiềm năng chính xác, vừa có thể tạo điểm nhấn thông qua: Tên sản phẩm, hình ảnh của sản phẩm,..-->
-              <!--                </p>-->
-              <!--              </li>-->
+<!--                <p class="section-text">-->
+<!--                  Google Smart Shopping (chiến dịch mua sắm thông minh), dùng nhiều trong thương mại điện tử, vừa hướng đến mục tiêu khách mua hàng tiềm năng chính xác, vừa có thể tạo điểm nhấn thông qua: Tên sản phẩm, hình ảnh của sản phẩm,..-->
+<!--                </p>-->
+<!--              </li>-->
 
             </ul>
 
@@ -168,7 +168,7 @@
         <div class="container">
 
           <h2 class="h3 section-title">
-            Ưu Điểm Của Dịch Vụ Quản Trị Website Tại T-Media</h2>
+            Ưu Điểm Dịch Vụ LANDING PAGE Tại T-Media</h2>
 
           <p class="section-text">
             Trong một thế giới ngày càng phát triển và cạnh tranh, Marketing trở thành một yếu tố quan trọng không thể thiếu cho mọi doanh nghiệp và tổ chức. Đó không chỉ là việc quảng cáo sản phẩm hoặc dịch vụ của bạn, mà còn là cách bạn xây dựng và duy trì mối quan hệ với khách hàng.
@@ -184,12 +184,12 @@
                 </div>
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">Thiết Kế Giao Diện </a>
+                  <a href="#" class="card-title">Tốt hơn hết là sử dụng Landing Page cho mọi chiến dịch quảng cáo. Nó sẽ giúp bạn truyền thông trực tiếp hiệu quả và nâng cao doanh số bán hàng tốt hơn. </a>
                 </h3>
 
-                                <p class="card-text">
-                                  Những thiết kế Website bắt mắt, thu hút khách hàng từ những thao tác đầu tiên. Mỗi giao diện sẽ phù hợp với từng ngành nghề của khách hàng yêu cầu. Giúp tối ưu hình ảnh thương hiệu, tạo dấu ấn riêng
-                                </p>
+                <!--                <p class="card-text">-->
+                <!--                  Là đơn vị chuyên nghiệp, đi đầu trong nắm bắt xu hướng thị trường và mang đến những giải pháp nhanh chóng, kịp thời cho khách hàng-->
+                <!--                </p>-->
 
               </div>
             </li>
@@ -201,70 +201,15 @@
                 </div>
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">Trải Nghiệm Mua Sắm Và Tối Ưu CRO</a>
+                  <a href="#" class="card-title">Quy tắc đầu tiên về các phương pháp hay nhất về Landing Page là: chúng là điểm khởi đầu để giúp bạn xây dựng nỗ lực đầu tiên tốt nhất của mình tại Landing Page. Sau đó, bạn cần phải thử nghiệm và để cho khách hàng quyết định những gì họ nghĩ là trang chuyển đổi tốt nhất cho công việc.</a>
                 </h3>
 
-                                <p class="card-text">
-                                  Tối ưu trãi nghiệm người dùng,phân tích trang web để đưa ra, thử nghiệm những giải pháp giúp tăng tỷ lệ lượng khách hàng vào website và thực hiện các nút (Buttons) kêu gọi hành động theo mục đích của doanh nghiệp
-                                </p>
+                <!--                <p class="card-text">-->
+                <!--                  Là đơn vị chuyên nghiệp, đi đầu trong nắm bắt xu hướng thị trường và mang đến những giải pháp nhanh chóng, kịp thời cho khách hàng-->
+                <!--                </p>-->
 
               </div>
             </li>
-            <li>
-              <div class="service-card">
-
-                <div class="card-icon" style="background-color: #13c4a1">
-                  <ion-icon name="chatbox"></ion-icon>
-                </div>
-
-                <h3 class="h3">
-                  <a href="#" class="card-title">Hỗ Trợ Phân Tích Thị Trường
-                  </a>
-                </h3>
-
-                <p class="card-text">
-                  Đánh giá chi tiết về thị trường mục tiêu của doanh nghiệp và bối cảnh cạnh tranh trong một ngành cụ thể. Phân tích thị trường cho phép bạn dự đoán mức độ thành công mong đợi khi giới thiệu thương hiệu và các sản phẩm của thương hiệu với người tiêu dùng trong thị trường.
-                </p>
-
-              </div>
-            </li>
-            <li>
-              <div class="service-card">
-
-                <div class="card-icon" style="background-color: #13c4a1">
-                  <ion-icon name="chatbox"></ion-icon>
-                </div>
-
-                <h3 class="h3">
-                  <a href="#" class="card-title">Phát Triển & Xây Dựng Nội Dung Chuẩn SEO
-                  </a>
-                </h3>
-
-                <p class="card-text">
-                  Xây dựng những nội dung liên quan đến chuyên ngành, lên kế hoạch và tiến hành bài viết chuẩn SEO. Giúp tăng sự tiếp cận của trang web đến khách hàng tiềm năng, nâng cao thứ bậc trang web trên công cụ tìm kiếm của Google.
-                </p>
-
-              </div>
-            </li>
-            <li>
-              <div class="service-card">
-
-                <div class="card-icon" style="background-color: #13c4a1">
-                  <ion-icon name="chatbox"></ion-icon>
-                </div>
-
-                <h3 class="h3">
-                  <a href="#" class="card-title">Đồng Hành Cùng Khách Hàng
-                  </a>
-                </h3>
-
-                <p class="card-text">
-                  Xây dựng những nội dung liên quan đến chuyên ngành, lên kế hoạch và tiến hành bài viết chuẩn SEO. Giúp tăng sự tiếp cận của trang web đến khách hàng tiềm năng, nâng cao thứ bậc trang web trên công cụ tìm kiếm của Google.
-                </p>
-
-              </div>
-            </li>
-
 
 
 
@@ -288,9 +233,9 @@
           <h2 class="h3 section-title">
             Bảng Báo Giá Dịch Vụ Landing Page</h2>
 
-          <!--          <p class="section-text">-->
-          <!--            Dưới đây là bảng báo giá dịch vụ website  của T-Media. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0974 151514 để nhận hỗ trợ của chuyên viên marketing. Trân trọng-->
-          <!--          </p>-->
+<!--          <p class="section-text">-->
+<!--            Dưới đây là bảng báo giá dịch vụ website  của T-Media. Quý khách hàng có nhu cầu tìm hiểu hoặc tư vấn về dịch vụ, vui lòng liên hệ hotline 0974 151514 để nhận hỗ trợ của chuyên viên marketing. Trân trọng-->
+<!--          </p>-->
 
           <ul class="grid-list">
 

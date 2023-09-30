@@ -69,6 +69,22 @@ const router = createRouter({
             // which is lazy-loaded when the route is visited.
             component: () => import('../pages/web/seoweb.vue')
         },
+        {
+            path: '/ads-google',
+            name: 'ads-google',
+            // route level code-splitting
+            // this generates a separate chunk (About.[hash].js) for this route
+            // which is lazy-loaded when the route is visited.
+            component: () => import('../pages/web/googleAdsView.vue')
+        },
+        {
+            path: '/landingpage',
+            name: 'landingpage',
+            // route level code-splitting
+            // this generates a separate chunk (About.[hash].js) for this route
+            // which is lazy-loaded when the route is visited.
+            component: () => import('../pages/web/LandingPgaeView.vue')
+        },
 
     ]
 })
